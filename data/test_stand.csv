@@ -1,0 +1,26 @@
+SMILES,SMILES_stand,Name
+CCC(CC)COC(=O)C(C)NP(=O)(OCC1OC(C#N)(c2ccc3c(N)ncnn23)C(O)C1O)Oc1ccccc1,CCC(CC)COC(=O)C(C)NP(=O)(OCC1OC(C#N)(c2ccc3c(N)ncnn23)C(O)C1O)Oc1ccccc1,Remdesivir (Veklury)
+CC(C)C(=O)OCC1OC(n2ccc(NO)nc2=O)C(O)C1O,CC(C)C(=O)OCC1OC(n2ccc(NO)nc2=O)C(O)C1O,Molnupiravir (Lagevrio)
+Br.CC(C)C(=O)OCC1OC(C#N)(c2ccc3c(N)ncnn23)C(OC(=O)C(C)C)C1OC(=O)C(C)C,Br.CC(C)C(=O)OCC1OC(C#N)(c2ccc3c(N)ncnn23)C(OC(=O)C(C)C)C1OC(=O)C(C)C,JT001 (VV116)
+CC(C)(C)C(NC(=O)C(F)(F)F)C(=O)N1CC2C(C1C(=O)NC(C#N)CC1CCNC1=O)C2(C)C,CC(C)(C)C(NC(=O)C(F)(F)F)C(=O)N1CC2C(C1C(=O)NC(C#N)CC1CCNC1=O)C2(C)C,Nirmatrelvirâ€“ritonavir (Paxlovid)
+Cn1cnc(Cn2c(=O)nc(Nc3cc4cn(C)nc4cc3Cl)n(Cc3cc(F)c(F)cc3F)c2=O)n1,Cn1cnc(Cn2c(=O)nc(Nc3cc4cn(C)nc4cc3Cl)n(Cc3cc(F)c(F)cc3F)c2=O)n1,Ensitrelvir (Xocova)
+CC1CC2C3CCC4=CC(=O)C=CC4(C)C3(F)C(O)CC2(C)C1(O)C(=O)CO,CC1CC2C3CCC4=CC(=O)C=CC4(C)C3(F)C(O)CC2(C)C1(O)C(=O)CO,Dexamethasone
+CC12CCC(=O)C=C1CCC1C2C(O)CC2(C)C1CCC2(O)C(=O)CO,CC12CCC(=O)C=C1CCC1C2C(O)CC2(C)C1CCC2(O)C(=O)CO,Hydrocortisone
+CCS(=O)(=O)N1CC(CC#N)(n2cc(-c3ncnc4[nH]ccc34)cn2)C1,CCS(=O)(=O)N1CC(CC#N)(n2cc(-c3ncnc4[nH]ccc34)cn2)C1,Baricitinib
+CC1CCN(C(=O)CC#N)CC1N(C)c1ncnc2[nH]ccc12,CC1CCN(C(=O)CC#N)CC1N(C)c1ncnc2[nH]ccc12,Tofacitinib
+CC(CCCC(C)(C)O)C1CCC2C3CC=C4CC(O)CCC4(C)C3CCC12C,CC(CCCC(C)(C)O)C1CCC2C3CC=C4CC(O)CCC4(C)C3CCC12C,25-hydroxycholesterol
+CC1(C)CCC(C)(C)c2cc(C(=O)Nc3ccc(C(=O)O)cc3)ccc21,CC1(C)CCC(C)(C)c2cc(C(=O)Nc3ccc(C(=O)O)cc3)ccc21,AM580
+CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(N(C)C)C2O)C(C)(O)CC(C)CN(C)C(C)C(O)C1(C)O,CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(N(C)C)C2O)C(C)(O)CC(C)CN(C)C(C)C(O)C1(C)O,Azithromycin
+CN1CCN(C(c2ccccc2)c2ccc(Cl)cc2)CC1,CN1CCN(C(c2ccccc2)c2ccc(Cl)cc2)CC1,Chlorcyclizine
+CC=CCC(C)C(O)C1C(=O)NC(CC)C(=O)N(C)CC(=O)N(C)C(CC(C)C)C(=O)NC(C(C)C)C(=O)N(C)C(CC(C)C)C(=O)NC(C)C(=O)NC(C)C(=O)N(C)C(CC(C)C)C(=O)N(C)C(CC(C)C)C(=O)N(C)C(C(C)C)C(=O)N1C,CC=CCC(C)C(O)C1C(=O)NC(CC)C(=O)N(C)CC(=O)N(C)C(CC(C)C)C(=O)NC(C(C)C)C(=O)N(C)C(CC(C)C)C(=O)NC(C)C(=O)NC(C)C(=O)N(C)C(CC(C)C)C(=O)N(C)C(CC(C)C)C(=O)N(C)C(C(C)C)C(=O)N1C,Cyclosporine
+CCN(CC)CCCC(C)Nc1ccnc2cc(Cl)ccc12,CCN(CC)CCCC(C)Nc1ccnc2cc(Cl)ccc12,Chloroquine
+C#Cc1cccc(Nc2ncnc3cc(OCCOC)c(OCCOC)cc23)c1,C#Cc1cccc(Nc2ncnc3cc(OCCOC)c(OCCOC)cc23)c1,Erlotinib
+COC1CC2CCC(C)C(O)(O2)C(=O)C(=O)N2CCCCC2C(=O)OC(C(C)CC2CCC(OCCO)C(OC)C2)CC(=O)C(C)C=C(C)C(O)C(OC)C(=O)C(C)CC(C)C=CC=CC=C1C,COC1CC2CCC(C)C(O)(O2)C(=O)C(=O)N2CCCCC2C(=O)OC(C(C)CC2CCC(OCCO)C(OC)C2)CC(=O)C(C)C=C(C)C(O)C(OC)C(=O)C(C)CC(C)C=CC=CC=C1C,Everolimus
+NC(=O)c1nc(F)c[nH]c1=O,NC(=O)c1nc(F)c[nH]c1=O,Favipiravir
+CCc1cc(CCC2(C3CCCC3)CC(O)=C(Cc3nc4nc(C)cc(C)n4n3)C(=O)O2)cc(CC)n1,CCc1cc(CCC2(C3CCCC3)CC(O)=C(Cc3nc4nc(C)cc(C)n4n3)C(=O)O2)cc(CC)n1,Filibuvir
+Nc1ncnc2c(C3NC(CO)C(O)C3O)c[nH]c12,Nc1ncnc2c(C3NC(CO)C(O)C3O)c[nH]c12,Galidesivir
+CC(=O)C1(O)Cc2c(O)c3c(c(O)c2C(OC2CC(N)C(O)C(C)O2)C1)C(=O)c1ccccc1C3=O,CC(=O)C1(O)Cc2c(O)c3c(c(O)c2C(OC2CC(N)C(O)C(C)O2)C1)C(=O)c1ccccc1C3=O,Idarubicin
+Cc1cccc(C)c1OCC(=O)NC(Cc1ccccc1)C(O)CC(Cc1ccccc1)NC(=O)C(C(C)C)N1CCCNC1=O,Cc1cccc(C)c1OCC(=O)NC(Cc1ccccc1)C(O)CC(Cc1ccccc1)NC(=O)C(C(C)C)N1CCCNC1=O,Lopinavir
+NC(=O)c1ncn(C2OC(CO)C(O)C2O)n1,NC(=O)c1ncn(C2OC(CO)C(O)C2O)n1,Ribavirin
+CCOC(=O)C=CC(CC1CCNC1=O)NC(=O)C(CC(=O)C(NC(=O)c1cc(C)on1)C(C)C)Cc1ccc(F)cc1,CCOC(=O)C=CC(CC1CCNC1=O)NC(=O)C(CC(=O)C(NC(=O)c1cc(C)on1)C(C)C)Cc1ccc(F)cc1,Rupintrivir
+COc1cc(C2Oc3cc(C4Oc5cc(O)cc(O)c5C(=O)C4O)ccc3OC2CO)ccc1O,COc1cc(C2Oc3cc(C4Oc5cc(O)cc(O)c5C(=O)C4O)ccc3OC2CO)ccc1O,Silibinin

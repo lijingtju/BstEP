@@ -1,0 +1,1 @@
+python3 ./feature_generation_3model.py --csvfile /data/users/lijing/PycharmProjects/PLpro_yuan/BstEP_github/data/world_wet_stand.csv --model EV71 --split-type te --ft tpatf --numpy_folder ./features/
