@@ -29,8 +29,9 @@ conda activate BstEP/in/your/env/list
 ```
 
 ### Commands to do prediction
+```
 python BstEP_predict.py --csvfile ./data/test.csv --outfile ./data/test_result.csv
-
+```
 
 ### The detail of results.
 The meaning of each column in results filesL:
