@@ -3,6 +3,7 @@
 
 # BstEP
 This repository contains machine learning models and prediction code for BstEP. Users can utilize BstEP to search for potential broad-spectrum antiviral drugs. We envision that BstEP will help accelerate the screening process for broad-spectrum drugs.
+
 ![flowchart BstEP.](https://github.com/lijingtju/BstEP/blob/main/BstEP_flowchart.png)
 
 ## Requirements
